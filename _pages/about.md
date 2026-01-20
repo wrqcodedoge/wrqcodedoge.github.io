@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at <a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a>, <a href="https://www.nju.edu.cn/">Nanjing University (NJU)</a>
+# About me
 
-Currently, I am majoring in Artificial Intelligence. I am honored to be advised by <a href="https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a>, and work with  <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a>
+Hi there!👋 I'm Ruiqing Wang, an undergraduate student at <a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a>, <a href="https://www.nju.edu.cn/">Nanjing University (NJU)</a>
+
+Currently, I am majoring in Artificial Intelligence. I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a>, and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a>
 
 My research interest includes generative models, computer vision and LLMs.
 
- <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+I'm happy to make new friends and have a chat. Welcome to reach out!
 
 
 <!-- # 🔥 News -->
@@ -54,15 +56,13 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 
 [MFSR: MeanFlow Distillation for One Step Real-World Image Super Resolution]()
 
-Ruiqing Wang, Yuanzhi Zhu, Kai Zhang, Hanshu Yan, Shilin Lu, Jian Yang
+**Ruiqing Wang**, Yuanzhi Zhu, Kai Zhang, Hanshu Yan, Shilin Lu, Jian Yang
 
 
 <!-- [**Code**](https://github.com/yuanzhi-zhu/OFTSR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 </div>
 </div>
-
-
 
 
 
