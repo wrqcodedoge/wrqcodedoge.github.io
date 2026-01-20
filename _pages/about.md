@@ -34,18 +34,36 @@ My research interest includes generative models, computer vision and LLMs.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Paper</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Paper</div><img src='images/OFTSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs](https://arxiv.org/abs/2412.09465)
 
-Yuanzhi Zhu, **Ruiqing Wang**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
+Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang (∗: Equal contribution)
 
 
 [**Code**](https://github.com/yuanzhi-zhu/OFTSR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Paper</div><img src='images/MFSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MFSR: MeanFlow Distillation for One Step Real-World Image Super Resolution]()
+
+Ruiqing Wang, Yuanzhi Zhu, Kai Zhang, Hanshu Yan, Shilin Lu, Jian Yang
+
+
+<!-- [**Code**](https://github.com/yuanzhi-zhu/OFTSR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+</div>
+</div>
+
+
+
 
 
 
