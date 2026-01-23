@@ -19,9 +19,9 @@ redirect_from:
 
 # About me
 
-Hi there!👋 I'm Ruiqing Wang, an undergraduate student at <a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a>, <a href="https://www.nju.edu.cn/">Nanjing University (NJU)</a>
+Hi there!👋 I'm Ruiqing Wang. I am currently a third-year undergraduate student at <a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a>, <a href="https://www.nju.edu.cn/">Nanjing University (NJU)</a>
 
-Currently, I am majoring in Artificial Intelligence. I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a>, and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a>
+I'm majoring in Artificial Intelligence. I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a>, and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a>
 
 My research interest includes generative models, computer vision and LLMs.
 
@@ -51,7 +51,7 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Paper</div><img src='images/MFSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Paper</div><img src='images/MFSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MFSR: MeanFlow Distillation for One Step Real-World Image Super Resolution]()
@@ -71,7 +71,9 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 - *2025* National Scholarship (Highest Honor for undergraduates in China, 10,000 CNY). 
 - *2024* Guo Xie Birong Scholarship (10,000 CNY). 
 - *2024* Outstanding Student of the Freshman College, Nanjing University (Top 5%)
-- 
+
+
+
 # 📖 Educations
 - *2023.09 - 2027.06*, Undergraduate student in Nanjing University. 
 
@@ -82,3 +84,13 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 
 <!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 🗺️ Visitors
+
+<div style="width: 220px; margin: 0 auto;">
+  <script
+    type="text/javascript"
+    id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d=9q2st1KHGt0eoqp8St4dj1J2mi31yavQuttXp0m9HnE&cl=ffffff&w=a">
+  </script>
+</div>
