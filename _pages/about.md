@@ -21,7 +21,7 @@ redirect_from:
 
 Hi there!👋 I'm Ruiqing Wang. I am currently a third-year undergraduate student at <a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a>, <a href="https://www.nju.edu.cn/">Nanjing University (NJU)</a>
 
-I'm majoring in Artificial Intelligence. I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a>, and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a>
+I'm majoring in Artificial Intelligence. I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a> and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a>
 
 My research interest includes generative models, computer vision and LLMs.
 
@@ -96,7 +96,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 <!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 🗺️ Visitors
+<!-- # 🗺️ Visitors
 
 <div style="width: 220px; margin: 0 auto;">
   <script
@@ -104,4 +104,4 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
     id="clustrmaps"
     src="//clustrmaps.com/map_v2.js?d=9q2st1KHGt0eoqp8St4dj1J2mi31yavQuttXp0m9HnE&cl=ffffff&w=a">
   </script>
-</div>
+</div> -->
