@@ -57,6 +57,8 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 
 **Ruiqing Wang**, Yuanzhi Zhu, Kai Zhang, Hanshu Yan, Shilin Lu, Jian Yang
 
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Preprint </div><img src='images/Ask.png' alt="sym" width="100%"></div></div>
