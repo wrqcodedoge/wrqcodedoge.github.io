@@ -28,15 +28,14 @@ My research interest includes generative models, computer vision and LLMs.
 I'm happy to make new friends and have a chat. Welcome to reach out!
 
 
-<!-- # 🔥 News -->
+# 🔥 News -->
 
 
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.01*: &nbsp;🎉🎉 OFTSR is accepted by ICLR. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Paper</div><img src='images/OFTSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICLR </div><img src='images/OFTSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs](https://arxiv.org/abs/2412.09465)
@@ -51,12 +50,22 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Paper</div><img src='images/MFSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Preprint </div><img src='images/MFSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MFSR: MeanFlow Distillation for One Step Real-World Image Super Resolution]()
 
 **Ruiqing Wang**, Yuanzhi Zhu, Kai Zhang, Hanshu Yan, Shilin Lu, Jian Yang
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Preprint </div><img src='images/Ask.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Controlling Video Generation with Vision Language Models]()
+
+
+Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An 
 
 
 <!-- [**Code**](https://github.com/yuanzhi-zhu/OFTSR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
