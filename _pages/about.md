@@ -31,7 +31,7 @@ I'm happy to make new friends and have a chat. Welcome to reach out!
 # 🔥 News -->
 
 
-- *2026.01*: &nbsp;🎉🎉 OFTSR is accepted by ICLR. 
+- *2026.01*: &nbsp;🎉🎉 OFTSR is accepted by ICLR 2026. 
 
 # 📝 Publications 
 
@@ -70,12 +70,21 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An 
 
 
-<!-- [**Code**](https://github.com/yuanzhi-zhu/OFTSR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
 </div>
 </div>
 
 
+<!-- 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Preprint </div><img src='images/A2SR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Any-Resolution and Any-Step Image Super Resolution with Pure ConvNets]()
+
+**Ruiqing Wang**, Kai Zhang
+
+
+</div>
+</div> -->
 
 
 # 🎖 Honors and Awards
@@ -86,12 +95,16 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 
 
 # 📖 Educations
-- *2023.09 - 2027.06*, Undergraduate student in Nanjing University. 
+- *2023.09 - 2027.06*, Undergraduate student at Nanjing University. 
 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 🎯 Resolve
+- Think actively
+- Execute relentlessly
+- Anchor in calm
+
+
+
 
 <!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
