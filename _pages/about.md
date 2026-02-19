@@ -35,7 +35,7 @@ I'm happy to make new friends and have a chat. Welcome to reach out!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICLR </div><img src='images/OFTSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICLR2026 </div><img src='images/OFTSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs](https://arxiv.org/abs/2412.09465)
@@ -101,6 +101,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 # 🎯 Resolve
 - Think actively
 - Execute relentlessly
+- Work smartly
 - Anchor in calm
 
 
