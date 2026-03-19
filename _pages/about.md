@@ -74,7 +74,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 </div>
 
 
-<!-- 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Preprint </div><img src='images/A2SR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,7 +84,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 
 
 </div>
-</div> -->
+</div>
 
 
 # 🎖 Honors and Awards
@@ -101,6 +101,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 # 🎯 Resolve
 - Think actively
 - Execute relentlessly
+- Act fast
 - Work smartly
 - Anchor in calm
 
