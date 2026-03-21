@@ -27,7 +27,7 @@ My research interest includes generative models, computer vision and LLMs.
 
 I am currently seeking PhD opportunities for Fall 2027 admission (US, Singapore) — feel free to reach out if you have any openings or would like to connect!
 
-I'm always happy to make new friends and have a chat. Welcome to reach out! 📱 <a href="images/wechat.jpg" target="_blank">Connect via WeChat</a>
+I'm always happy to make new friends and have a chat. Welcome to reach out! 📱 <a href="images/wechat.jpg" target="_blank">WeChat</a>
 
 
 # 🔥 News -->
