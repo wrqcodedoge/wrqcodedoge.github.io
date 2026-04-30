@@ -34,7 +34,7 @@ I'm always happy to make new friends and have a chat. Welcome to reach out! 📱
 
 
 - *2026.01*: &nbsp;🎉🎉 OFTSR is accepted by ICLR 2026. 
-<!-- - *2026.05*: &nbsp;🎉🎉 A$^2$SR is accepted by ICIP 2026.  -->
+<!-- - *2026.05*: &nbsp;🎉🎉 A^2SR is accepted by ICIP 2026.  -->
 
 # 📝 Publications 
 
@@ -84,7 +84,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE International Conference on Image Processing 2026 </div><img src='images/A2SR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A$^2$SR: Any-Resolution and Any-Step Diffusion Image Super Resolution with Pure ConvNets]()
+[A^2SR: Any-Resolution and Any-Step Diffusion Image Super Resolution with Pure ConvNets]()
 
 **Ruiqing Wang**, Kai Zhang
 
