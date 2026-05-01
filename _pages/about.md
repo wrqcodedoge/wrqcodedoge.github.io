@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 
-Hi there!👋 I'm Ruiqing Wang. I am currently a third-year undergraduate student at <a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a>, <a href="https://www.nju.edu.cn/">Nanjing University (NJU)</a>
+Hi there!👋 I'm Ruiqing Wang (王睿清). I am currently a third-year undergraduate student at <a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a>, <a href="https://www.nju.edu.cn/">Nanjing University </a>
 
 I'm majoring in Artificial Intelligence. I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a> and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a>
 
@@ -34,7 +34,7 @@ I'm always happy to make new friends and have a chat. Welcome to reach out! 📱
 
 
 - *2026.01*: &nbsp;🎉🎉 OFTSR is accepted by ICLR 2026. 
-<!-- - *2026.05*: &nbsp;🎉🎉 A^2SR is accepted by ICIP 2026.  -->
+- *2026.05*: &nbsp; A^2SR is accepted by ICIP 2026. 
 
 # 📝 Publications 
 
@@ -81,7 +81,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE International Conference on Image Processing 2026 </div><img src='images/A2SR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> International Conference on Image Processing 2026 </div><img src='images/A2SR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A^2SR: Any-Resolution and Any-Step Diffusion Image Super Resolution with Pure ConvNets]()
