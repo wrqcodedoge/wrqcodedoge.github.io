@@ -43,7 +43,7 @@ I'm always happy to make new friends and have a chat. Welcome to reach out! 📱
 
 [OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs](https://arxiv.org/abs/2412.09465)
 
-Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang (∗: Equal contribution)
+Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang   (∗: Equal contribution)
 
 
 [**Paper**](https://openreview.net/pdf?id=5iaeagjfjK) [**Code**](https://github.com/yuanzhi-zhu/OFTSR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -94,6 +94,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 
 
 # 🎖 Honors and Awards
+- *2025* China Mobile Scholarship (10,000 CNY)
 - *2025* National Scholarship (Highest Honor for undergraduates in China, 10,000 CNY). 
 - *2024* Guo Xie Birong Scholarship (10,000 CNY). 
 - *2024* Outstanding Student of the Freshman College, Nanjing University (Top 5%)
@@ -106,11 +107,11 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 
 # 🎯 Resolve
 - Think actively
-- Execute relentlessly
 - Act fast
 - Work smartly
 - Anchor in calm
-
+- Persist firmly 
+- Stay optimistic
 
 
 
