@@ -56,7 +56,7 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Preprint </div><img src='images/MFSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MFSR: MeanFlow Distillation for One Step Real-World Image Super Resolution]()
+[MFSR: MeanFlow Distillation for One Step Real-World Image Super Resolution](https://arxiv.org/abs/2603.20690)
 
 **Ruiqing Wang**, Yuanzhi Zhu, Kai Zhang, Hanshu Yan, Shilin Lu, Jian Yang
 
@@ -69,7 +69,7 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Preprint </div><img src='images/Ask.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Controlling Video Generation with Vision Language Models]()
+[Controlling Video Generation with Vision Language Models](https://openreview.net/pdf?id=6SC61wyq8w)
 
 Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An 
 <!-- 
