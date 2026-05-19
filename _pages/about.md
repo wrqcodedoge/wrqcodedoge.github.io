@@ -60,7 +60,7 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 
 **Ruiqing Wang**, Yuanzhi Zhu, Kai Zhang, Hanshu Yan, Shilin Lu, Jian Yang
 
-[**Paper**](https://arxiv.org/abs/2603.20690)  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2603.20690) [**Page**](https://wrqcodedoge.github.io/mfsr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
@@ -103,6 +103,9 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 
 # 📖 Educations
 - *2023.09 - 2027.06*, Undergraduate student at Nanjing University. 
+
+  - GPA: 4.62 / 5.00 (Average Score: 92.4 / 100)
+  - TOEFL: 5.5 / 6.0
 
 
 # 🎯 Resolve
