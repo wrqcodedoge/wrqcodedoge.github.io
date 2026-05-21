@@ -25,7 +25,7 @@ I'm majoring in Artificial Intelligence. I am honored to be advised by <a href="
 
 My research interest includes generative models, computer vision and LLMs.
 
-I am currently seeking PhD opportunities for Fall 2027 admission (US, Singapore, HK) — feel free to reach out if you have any openings or would like to connect!
+<!-- I am currently seeking PhD opportunities for Fall 2027 admission (US, Singapore, HK) — feel free to reach out if you have any openings or would like to connect! -->
 
 I'm always happy to make new friends and have a chat. Welcome to reach out! 📱 <a href="images/wechat.jpg" target="_blank">WeChat</a>
 
@@ -60,7 +60,7 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 
 **Ruiqing Wang**, Yuanzhi Zhu, Kai Zhang, Hanshu Yan, Shilin Lu, Jian Yang
 
-[**Paper**](https://arxiv.org/abs/2603.20690) [**Page**](https://wrqcodedoge.github.io/mfsr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2603.20690)  [**Project Page**](https://wrqcodedoge.github.io/mfsr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
@@ -94,7 +94,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 
 
 # 🎖 Honors and Awards
-- *2025* China Mobile Scholarship (10,000 CNY)
+<!-- - *2025* China Mobile Scholarship (10,000 CNY) -->
 - *2025* National Scholarship (Highest Honor for undergraduates in China, 10,000 CNY). 
 - *2024* Guo Xie Birong Scholarship (10,000 CNY). 
 - *2024* Outstanding Student of the Freshman College, Nanjing University (Top 5%)
