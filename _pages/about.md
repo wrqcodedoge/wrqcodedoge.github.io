@@ -21,7 +21,9 @@ redirect_from:
 
 Hi there!👋 I'm Ruiqing Wang (王睿清). I am currently a third-year undergraduate student at <a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a>, <a href="https://www.nju.edu.cn/">Nanjing University </a>
 
-I'm majoring in Artificial Intelligence. I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a> and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a>
+I'm majoring in Artificial Intelligence. 
+
+<!-- I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a> and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a> -->
 
 My research interest includes generative models, computer vision and LLMs.
 
