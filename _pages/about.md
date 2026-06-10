@@ -23,11 +23,11 @@ Hi there!👋 I'm Ruiqing Wang (王睿清). I am currently a third-year undergra
 
 I'm majoring in Intelligence Science and Technology. 
 
-<!-- I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a> and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a> -->
+I am honored to be advised by <a href="https://scholar.google.com/citations?user=0RycFIIAAAAJ">Prof. Kai Zhang</a> and work with <a href="https://scholar.google.com/citations?user=4vm_v9EAAAAJ">Yuanzhi Zhu</a>
 
 My research interest includes generative models, computer vision and LLMs.
 
-<!-- I am currently seeking PhD opportunities for Fall 2027 admission (US, Singapore, HK) — feel free to reach out if you have any openings or would like to connect! -->
+I am currently seeking PhD opportunities for Fall 2027 admission (US, Singapore, HK) — feel free to reach out if you have any openings or would like to connect!
 
 I'm always happy to make new friends and have a chat. Welcome to reach out! 📱 <a href="images/wechat.jpg" target="_blank">WeChat</a>
 
@@ -96,7 +96,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 
 
 # 🎖 Honors and Awards
-<!-- - *2025* China Mobile Scholarship (10,000 CNY) -->
+- *2025* China Mobile Scholarship (10,000 CNY)
 - *2025* National Scholarship (Highest Honor for undergraduates in China, 10,000 CNY). 
 - *2024* Guo Xie Birong Scholarship (10,000 CNY). 
 - *2024* Outstanding Student of the Freshman College, Nanjing University (Top 5%)
