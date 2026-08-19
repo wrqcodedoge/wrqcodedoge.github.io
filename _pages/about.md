@@ -72,8 +72,8 @@ Yuanzhi Zhu∗, **Ruiqing Wang∗**, Shilin Lu, Hanshu Yan, Junnan Li, Kai Zhang
 [Controlling Video Generation with Vision Language Models](https://openreview.net/pdf?id=6SC61wyq8w)
 
 Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An 
-<!-- 
-[**Paper**](https://openreview.net/pdf?id=6SC61wyq8w)  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+[**Paper**](https://openreview.net/pdf?id=6SC61wyq8w)  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 </div>
@@ -88,6 +88,7 @@ Longtao Zheng, **Ruiqing Wang**, Deheng Ye, Bo An
 
 **Ruiqing Wang**, Kai Zhang
 
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11630461)  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
